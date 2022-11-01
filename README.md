@@ -6,6 +6,7 @@ getting started
 from there fork it and make a copy of it on your own github account
 
 #2 clone the repo to your local machine from your github account
+git clone (flowed by the url of your repo)
 
 #3 then open the project in your favorite text editor (VS Code is the best) and open a terminal window and type:
 
