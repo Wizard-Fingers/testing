@@ -1,11 +1,26 @@
 This is a practice commit project that we are all working on
 
-getting started
+## How to contribute
+
+open your command line and type: 
+
+cd Desktop
+
+then type:
+mkdir practice project
+
+then type:
+cd practice project
+
+then follow the instructions below
+
+## Getting started
 
 #1 go to the repo at: https://github.com/Bear1986/testing
 from there fork it and make a copy of it on your own github account
 
-#2 clone the repo to your local machine from your github account
+#2 clone the repo to your local machine from your github account using the command line:
+
 git clone (flowed by the url of your repo)
 
 #3 then open the project in your favorite text editor (VS Code is the best) and open a terminal window and type:
